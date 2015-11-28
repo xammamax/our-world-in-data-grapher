@@ -12,11 +12,11 @@ With the *OurWorldInData-Grapher* you can create the following visualisations:
 – *Stacked area charts* like the first one in [this data entry on the rise of the Internet](http://ourworldindata.org/data/media-communication/internet/)
 
 
-+– *Scatter plots* like [this one on the relation between education and economic prosperity](http://ourworldindata.org/data/education-knowledge/global-rise-of-education/#the-relationship-between-gdp-and-education)
+– *Scatter plots* like [this one on the relation between education and economic prosperity](http://ourworldindata.org/data/education-knowledge/global-rise-of-education/#the-relationship-between-gdp-and-education)
  
-+– *bar chart* (horizontal and vertical; single- and multi-bar charts)
+– *bar chart* (horizontal and vertical; single- and multi-bar charts)
  
-+– *choropleth maps* (world maps and maps of all countries and continents)
+– *choropleth maps* (world maps and maps of all countries and continents)
  
 
 
